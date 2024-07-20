@@ -1,4 +1,4 @@
-# importent_coding_questijmons
+# importent_coding_questions
 Patterns
 based on Array
 List
