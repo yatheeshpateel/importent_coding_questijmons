@@ -1,2 +1,3 @@
 # importent_coding_questijmons
-# hkdhfakjh
+Patterns
+based on Array
